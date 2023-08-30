@@ -4,3 +4,4 @@ rencana sekolah naufal
 - membuat aplikasi untuk seminar
 - datang tepat waktu
 - membuat aplikasi secara kelompok
+
