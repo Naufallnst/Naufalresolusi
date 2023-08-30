@@ -3,3 +3,4 @@ rencana sekolah naufal
 - membuat laporan dengan benar
 - membuat aplikasi untuk seminar
 - datang tepat waktu
+- menyelesaikan tugas tepat waktu
